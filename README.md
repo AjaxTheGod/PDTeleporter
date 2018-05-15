@@ -8,31 +8,20 @@ Simply drag the resource folder into it's place and initialize it in server.cfg
 Do /pd [pdname]
 
 # List of stations:
-sandy
-blaine
-bcso
+sandy / blaine / bcso
 
-paleto
-paletobay
+paleto / paletobay
 
-vespucci
-westls
+vespucci / westls
 
-missionrow
-lspd
+missionrow / lspd
 
-rockford
-rockfordhills
+rockford / rockfordhills
 
-vinewood
-vinewoodpd
+vinewood / vinewoodpd
 
-lamesa
-mesa
-eastls
+lamesa / mesa / eastls
 
-davis
-grove
+davis / grove
 
-sasp
-sahp
+sasp / sahp
